@@ -1,2 +1,28 @@
-# kids-education-standard-operating-procedures-library-notion-template
-Professional notion for Kids Education professionals.
+# Kids Education Standard Operating Procedures Library Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI5kD8v53o82hibzSd0t2J)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI5kD8v53o82hibzSd0t2J)
+
